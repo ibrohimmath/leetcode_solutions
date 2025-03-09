@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3483-alternating-groups-ii) |
 ## Recursion
