@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0598-range-addition-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0598-range-addition-ii) |
+| [2690-house-robber-iv](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2690-house-robber-iv) |
 | [3483-alternating-groups-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
+## Binary Search
+|  |
+| ------- |
+| [2690-house-robber-iv](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2690-house-robber-iv) |
 <!---LeetCode Topics End-->
