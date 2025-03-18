@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2690-house-robber-iv) |
 | [3483-alternating-groups-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [3643-zero-array-transformation-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2690-house-robber-iv) |
+| [3643-zero-array-transformation-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
