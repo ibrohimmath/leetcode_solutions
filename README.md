@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0598-range-addition-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0598-range-addition-ii) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
 ## Number Theory
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0598-range-addition-ii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2478-longest-nice-subarray](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sliding Window
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Indexed Tree
 |  |
 | ------- |
