@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2690-house-robber-iv) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sliding Window
