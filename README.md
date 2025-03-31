@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0224-basic-calculator) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Math
 |  |
 | ------- |
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0598-range-addition-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sliding Window
@@ -201,4 +206,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0768-partition-labels) |
 | [2681-put-marbles-in-bags](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2681-put-marbles-in-bags) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
