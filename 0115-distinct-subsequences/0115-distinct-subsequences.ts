@@ -12,21 +12,10 @@ function numDistinct(s: string, t: string): number {
             }
             if (s[i] === t[j]) {
                 dp[i + 1][j + 1] += dp[i][j];
-                // console.log(i + 1, j + 1, dp[i + 1][j + 1]);
             }
-            if (j != n - 1) {
-                dp[i + 1][j + 1] += dp[i][j + 1];
-                // console.log(i + 1, j + 1, dp[i + 1][j + 1]);
-            }
+            dp[i + 1][j + 1] += dp[i][j + 1];
         }
     }
-
-    // console.log("answers");
-    let ans: number = 0;
-    for (let i = 0; i <= m; i++) {
-        console.log(i, n, dp[i][n]);
-        ans += dp[i][n];
-    }
-
-    return ans;
+    
+    return dp[m][n];
 };
