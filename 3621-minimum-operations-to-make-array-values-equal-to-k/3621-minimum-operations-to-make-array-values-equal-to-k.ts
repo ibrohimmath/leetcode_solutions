@@ -1,14 +1,14 @@
 function minOperations(nums: number[], k: number): number {
-    const counter: number[] = Array(101).fill(0);
-    const operations: number[] = Array(101).fill(0);
+    const counter: boolean[] = Array(101).fill(false);
     for (const item of nums) {
         if (item < k) {
             return -1;
         }
-        counter[item]++;
+        counter[item] = true;
     }
-    for (let i = 99; i >= 0; i--) {
-        operations[i] += Number(counter[i + 1] > 0) + operations[i + 1];
+    let ans: number = 0;
+    for (let i = 99; i >= k; i--) {
+        ans += Number(counter[i + 1]);
     }
-    return operations[k];
+    return ans;
 };
