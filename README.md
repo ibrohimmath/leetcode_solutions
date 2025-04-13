@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3548-find-the-count-of-good-integers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3548-find-the-count-of-good-integers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -236,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
