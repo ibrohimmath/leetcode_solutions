@@ -39,8 +39,7 @@ function countGoodIntegers(n: number, k: number): number {
         }
         let r: number = combs(counter);
         let l: number = 0;
-        if (counter[0] > 0) {
-            counter[0]--;
+        if (--counter[0] >= 0) {
             l = combs(counter);
         }
         const hash: string = counter.join("#");
