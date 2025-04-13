@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0598-range-addition-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0598-range-addition-ii) |
+| [2050-count-good-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0224-basic-calculator) |
+| [2050-count-good-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2050-count-good-numbers) |
 ## Design
 |  |
 | ------- |
