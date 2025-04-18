@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0068-text-justification) |
