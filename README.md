@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0068-text-justification) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0416-partition-equal-subset-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0055-jump-game) |
 | [0768-partition-labels](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0768-partition-labels) |
 | [2681-put-marbles-in-bags](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2681-put-marbles-in-bags) |
