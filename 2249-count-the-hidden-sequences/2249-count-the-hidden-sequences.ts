@@ -5,7 +5,6 @@ function numberOfArrays(differences: number[], lower: number, upper: number): nu
         mn = Math.min(mn, item);
         mx = Math.max(mx, item);
     }
-    console.log(mn, mx);
     if (mx - mn > upper - lower) {
         return 0;
     }
