@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0065-valid-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0768-partition-labels](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0768-partition-labels) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
