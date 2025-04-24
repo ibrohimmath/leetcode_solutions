@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1814-jump-game-vi](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1814-jump-game-vi) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -295,10 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Combinatorics
 |  |
