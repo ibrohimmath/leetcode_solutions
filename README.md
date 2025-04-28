@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2249-count-the-hidden-sequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2699-count-the-number-of-fair-pairs) |
