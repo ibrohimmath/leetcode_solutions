@@ -8,7 +8,6 @@ function smallestEquivalentString(s1: string, s2: string, baseStr: string): stri
 
     class DSU {
         public parent: number[];
-        public value: number[];
 
         constructor() {
             this.parent = new Array(26).fill(-1).map((_, i) => i);
@@ -36,8 +35,5 @@ function smallestEquivalentString(s1: string, s2: string, baseStr: string): stri
         const code1: number = getCode(s1[i]), code2: number = getCode(s2[i]);
         dsu.unite(code1, code2);
     }
-    // for (let i = 0; i < 26; i++) {
-    //     console.log(getAlpha(i), getAlpha(dsu.parent[i]));
-    // }
     return baseStr.split('').map(c => dsu.find(getCode(c))).map(getAlpha).join(''); 
 };
