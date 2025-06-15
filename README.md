@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2263-maximum-running-time-of-n-computers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
