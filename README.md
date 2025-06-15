@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0853-most-profit-assigning-work) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
