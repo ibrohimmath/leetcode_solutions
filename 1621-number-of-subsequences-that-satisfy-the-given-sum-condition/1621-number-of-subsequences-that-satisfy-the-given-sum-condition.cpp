@@ -30,9 +30,6 @@ public:
                 l++;
             }
         }
-        // for (int i = 0; i < n; i++) {
-        //    ans = (ans + (2 * nums[i] <= target)) % MOD;
-        // }
         return ans;
     }
 };
