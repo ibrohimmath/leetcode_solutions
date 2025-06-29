@@ -25,14 +25,14 @@ public:
         const int n = nums.size();
         int ans = 0;
         for (int l = 0, r = n - 1; r >= 1; r--) {
-            while (l < r && nums[l] + nums[r] <= target) {
-                ans = (ans + binpow(2, r - l) - 1) % MOD;
+            while (l <= r && nums[l] + nums[r] <= target) {
+                ans = (ans + binpow(2, r - l)) % MOD;
                 l++;
             }
         }
-        for (int i = 0; i < n; i++) {
-           ans = (ans + (2 * nums[i] <= target)) % MOD;
-        }
+        // for (int i = 0; i < n; i++) {
+        //    ans = (ans + (2 * nums[i] <= target)) % MOD;
+        // }
         return ans;
     }
 };
