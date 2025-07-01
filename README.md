@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1804-maximum-binary-string-after-change](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1804-maximum-binary-string-after-change) |
 | [2115-number-of-unique-good-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2115-number-of-unique-good-subsequences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0853-most-profit-assigning-work) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1804-maximum-binary-string-after-change](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1804-maximum-binary-string-after-change) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
