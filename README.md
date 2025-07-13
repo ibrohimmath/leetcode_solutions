@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0853-most-profit-assigning-work) |
 | [0868-push-dominoes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0868-push-dominoes) |
 | [0961-long-pressed-name](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0961-long-pressed-name) |
+| [1028-interval-list-intersections](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1028-interval-list-intersections) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0853-most-profit-assigning-work) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1028-interval-list-intersections](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1028-interval-list-intersections) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -603,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
