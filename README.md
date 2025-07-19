@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0868-push-dominoes) |
 | [0961-long-pressed-name](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0961-long-pressed-name) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1804-maximum-binary-string-after-change](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1804-maximum-binary-string-after-change) |
 | [2115-number-of-unique-good-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2115-number-of-unique-good-subsequences) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1428-jump-game-iii) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0212-word-search-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0212-word-search-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Memoization
 |  |
 | ------- |
