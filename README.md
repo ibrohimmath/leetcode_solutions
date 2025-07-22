@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0652-find-duplicate-subtrees](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0931-maximum-frequency-stack](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0931-maximum-frequency-stack) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1428-jump-game-iii) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Combinatorics
 |  |
