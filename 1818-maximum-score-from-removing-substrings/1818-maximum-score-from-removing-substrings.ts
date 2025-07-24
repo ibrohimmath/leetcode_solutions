@@ -1,25 +1,26 @@
 function maximumGain(s: string, x: number, y: number): number {
-    function process(s: string, pattern: string, score: number): [string, number] {
-        let ans: number = 0;
-        const stack: string[] = [];    
-        for (let i = 0; i < s.length; i++) {
-            if (stack.length && stack.at(-1) + s[i] == pattern) {
-                stack.pop();
-                ans += score;
-            } else {
-                stack.push(s[i]);
-            }
-        }
-        return [stack.join(''), ans];
+    if (x < y) {
+        [x, y] = [y, x];
+        s = s.split('').reverse().join('');
     }
 
-    const maxStr: string = (x > y ? 'ab' : 'ba');
-    const minStr: string = (x <= y ? 'ab' : 'ba');
-    let remainStr: string;
-    let maxPoints: number = 0, minPoints: number = 0;
+    let a: number = 0, b: number = 0, ans: number = 0;
+    for (let char of s) {
+        if (char == 'a') {
+            a++;
+        } else if (char == 'b') {
+            if (a > 0) {
+                a--;
+                ans += x; 
+            } else {
+                b++; 
+            }
+        } else {
+            ans += Math.min(a, b) * y;
+            a = b = 0;
+        }
+    }
+    ans += Math.min(a, b) * y;
 
-    [remainStr, maxPoints] = process(s, maxStr, Math.max(x, y));
-    [remainStr, minPoints] = process(remainStr, minStr, Math.min(x, y));
-
-    return minPoints + maxPoints;
+    return ans;
 };
