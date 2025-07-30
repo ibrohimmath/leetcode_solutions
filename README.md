@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-deepest-leaves-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-deepest-leaves-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1254-deepest-leaves-sum) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-deepest-leaves-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1254-deepest-leaves-sum) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0652-find-duplicate-subtrees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-deepest-leaves-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1254-deepest-leaves-sum) |
 ## Combinatorics
 |  |
 | ------- |
