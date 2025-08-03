@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1499-maximum-performance-of-a-team](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1656-count-good-triplets) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0853-most-profit-assigning-work](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0853-most-profit-assigning-work) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1499-maximum-performance-of-a-team](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1499-maximum-performance-of-a-team](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1814-jump-game-vi](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1814-jump-game-vi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0853-most-profit-assigning-work) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1499-maximum-performance-of-a-team](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1804-maximum-binary-string-after-change](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
