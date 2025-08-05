@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2479-meeting-rooms-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2664-maximize-greatness-of-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2681-put-marbles-in-bags) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2664-maximize-greatness-of-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2664-maximize-greatness-of-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
