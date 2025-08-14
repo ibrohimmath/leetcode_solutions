@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2487-optimal-partition-of-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
