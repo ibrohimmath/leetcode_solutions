@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0343-integer-break) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0598-range-addition-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0598-range-addition-ii) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0342-power-of-four) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
