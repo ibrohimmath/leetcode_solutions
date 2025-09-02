@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
