@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0212-word-search-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1814-jump-game-vi](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1814-jump-game-vi) |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
@@ -816,4 +820,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
