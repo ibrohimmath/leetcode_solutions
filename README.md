@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0868-push-dominoes) |
 | [0961-long-pressed-name](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0961-long-pressed-name) |
+| [1006-vowel-spellchecker](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0853-most-profit-assigning-work) |
 | [0940-fruit-into-baskets](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1028-interval-list-intersections](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1028-interval-list-intersections) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0797-rabbits-in-forest) |
 | [0931-maximum-frequency-stack](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
