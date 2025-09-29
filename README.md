@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2429-design-a-food-rating-system](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [2479-meeting-rooms-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2487-optimal-partition-of-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2487-optimal-partition-of-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0931-maximum-frequency-stack) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [2479-meeting-rooms-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2681-put-marbles-in-bags) |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0931-maximum-frequency-stack) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
+| [2434-design-a-number-container-system](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue
