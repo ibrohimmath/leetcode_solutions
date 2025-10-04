@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0165-compare-version-numbers) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0049-group-anagrams) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0134-gas-station) |
