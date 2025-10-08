@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-maximum-performance-of-a-team](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1656-count-good-triplets) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0853-most-profit-assigning-work](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0853-most-profit-assigning-work) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1612-avoid-flood-in-the-city](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
+| [1612-avoid-flood-in-the-city](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1814-jump-game-vi](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1814-jump-game-vi) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -738,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1499-maximum-performance-of-a-team](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1804-maximum-binary-string-after-change](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
