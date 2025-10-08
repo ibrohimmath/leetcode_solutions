@@ -1,15 +1,25 @@
 function successfulPairs(spells: number[], potions: number[], success: number): number[] {
-    const spellsPair = spells.map((s, ind) => [s, ind]);
-    spellsPair.sort((x, y) => x[0] - y[0]);
+    const spellsNew = spells.map((item, ind) => [item, ind]);
+    console.log(spellsNew);
+
     potions.sort((x, y) => x - y);
-    
-    const pairs = Array(spellsPair.length).fill(0);
-    for (let r = 0, l = spellsPair.length - 1; r < potions.length; r++) {
-        while (l >= 0 && spellsPair[l][0] * potions[r] >= success) {
-            pairs[spellsPair[l][1]] = potions.length - r;
-            l--;
+    spellsNew.sort((x, y) => x[0] - y[0]);
+
+    const ans: number[] = Array(spells.length).fill(0);
+
+    let l: number = 0, r: number = spellsNew.length - 1;
+    while (r >= 0 && l < potions.length) {
+        while (l < potions.length && potions[l] * spellsNew[r][0] < success) {
+            l++;
         }
+        if (l >= potions.length) {
+            ans[spellsNew[r][1]] = 0;
+            continue;
+        }
+        ans[spellsNew[r][1]] = potions.length - l;
+        
+        r--;
     }
 
-    return pairs;
+    return ans;
 };
