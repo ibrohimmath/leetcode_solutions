@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2050-count-good-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -828,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1656-count-good-triplets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
@@ -865,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0212-word-search-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0212-word-search-ii) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Trie
 |  |
 | ------- |
