@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0455-assign-cookies) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0134-gas-station) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
