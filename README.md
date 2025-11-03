@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3797-design-spreadsheet) |
+| [4042-minimum-operations-to-transform-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/4042-minimum-operations-to-transform-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4042-minimum-operations-to-transform-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/4042-minimum-operations-to-transform-array) |
 ## Monotonic Stack
 |  |
 | ------- |
