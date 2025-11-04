@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1281-can-make-palindrome-from-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1281-can-make-palindrome-from-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1293-three-consecutive-odds](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1344-maximum-equal-frequency](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1344-maximum-equal-frequency) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1281-can-make-palindrome-from-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1344-maximum-equal-frequency](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1344-maximum-equal-frequency) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1281-can-make-palindrome-from-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0342-power-of-four) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1281-can-make-palindrome-from-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2478-longest-nice-subarray) |
