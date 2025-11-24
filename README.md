@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1804-maximum-binary-string-after-change](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2115-number-of-unique-good-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2115-number-of-unique-good-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2169-simple-bank-system) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1281-can-make-palindrome-from-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2249-count-the-hidden-sequences) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0342-power-of-four) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1281-can-make-palindrome-from-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1281-can-make-palindrome-from-substring) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2478-longest-nice-subarray) |
