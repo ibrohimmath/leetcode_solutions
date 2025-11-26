@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
@@ -701,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -717,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Dynamic Programming
@@ -786,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -908,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2434-design-a-number-container-system) |
+| [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3790-fruits-into-baskets-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue
