@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3430-count-days-without-meetings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3430-count-days-without-meetings) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
