@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
