@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1925-count-square-sum-triples) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2050-count-good-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
