@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3583-count-special-triplets) |
 | [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3583-count-special-triplets) |
 | [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3623-count-number-of-trapezoids-i) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3583-count-special-triplets](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
