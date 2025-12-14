@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3606-coupon-code-validator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3623-count-number-of-trapezoids-i) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3430-count-days-without-meetings) |
 | [3531-count-covered-buildings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
