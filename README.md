@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0394-decode-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0768-partition-labels](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0868-push-dominoes) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0394-decode-string) |
 | [0931-maximum-frequency-stack](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0931-maximum-frequency-stack) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
