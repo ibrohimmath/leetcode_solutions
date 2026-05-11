@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2529-range-product-queries-of-powers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2479-meeting-rooms-iii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
