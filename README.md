@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1281-can-make-palindrome-from-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1293-three-consecutive-odds](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1344-maximum-equal-frequency](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1344-maximum-equal-frequency) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1254-deepest-leaves-sum) |
+| [1306-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1428-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1254-deepest-leaves-sum) |
+| [1306-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
