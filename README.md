@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1813-maximum-erasure-value) |
 | [1814-jump-game-vi](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1814-jump-game-vi) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
