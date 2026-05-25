@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1804-maximum-binary-string-after-change](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-jump-game-vii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2115-number-of-unique-good-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2115-number-of-unique-good-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1871-jump-game-vii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1281-can-make-palindrome-from-substring](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1281-can-make-palindrome-from-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1871-jump-game-vii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1871-jump-game-vii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1814-jump-game-vi](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1814-jump-game-vi) |
+| [1871-jump-game-vii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1871-jump-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2115-number-of-unique-good-subsequences](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2115-number-of-unique-good-subsequences) |
