@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0045-jump-game-ii) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
