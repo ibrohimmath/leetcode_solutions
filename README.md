@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
