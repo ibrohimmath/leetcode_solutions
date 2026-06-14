@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0961-long-pressed-name) |
 | [1028-interval-list-intersections](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1028-interval-list-intersections) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1070,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union-Find
 |  |
