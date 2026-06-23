@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Shortest Path
 |  |
