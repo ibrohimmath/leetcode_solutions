@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3830-find-closest-person) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Shortest Path
 |  |
