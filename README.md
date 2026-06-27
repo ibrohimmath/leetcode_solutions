@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -996,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
