@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0326-power-of-three) |
@@ -1086,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union-Find
