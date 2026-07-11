@@ -794,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2685-count-the-number-of-complete-components](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/ibrohimmath/leetcode_solutions/tree/master/1428-jump-game-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2685-count-the-number-of-complete-components](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2793-count-the-number-of-complete-components](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3607-power-grid-maintenance](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3607-power-grid-maintenance) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ibrohimmath/leetcode_solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1097,10 +1099,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ibrohimmath/leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [2685-count-the-number-of-complete-components](https://github.com/ibrohimmath/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Database
 |  |
 | ------- |
